@@ -143,10 +143,6 @@ class Janardhan:
 
 ## 🏆 GitHub Achievements
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=janam9097-arch&theme=tokyonight&no-frame=true&margin-w=10&row=2&column=4" />
-</div>
-
 <p align="center">
 <img src="https://img.shields.io/github/stars/janam9097-arch?style=for-the-badge&color=7aa2f7&labelColor=1a1b27"/>
 <img src="https://img.shields.io/github/followers/janam9097-arch?style=for-the-badge&color=bb9af7&labelColor=1a1b27"/>
