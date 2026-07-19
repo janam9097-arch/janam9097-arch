@@ -304,6 +304,51 @@ Q4 ──●── Learn AWS + Crack Software Engineer Role
 | 📖 | Always learning new technologies |
 | 🏗️ | Builds real-world, end-to-end applications |
 
+
+
+<!-- ============ PREMIUM EXTRAS ============ -->
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+## 🚀 Currently Working On
+
+```text
+🤖 AI Monitoring & Self-Healing Platform
+⚛️ Advanced React Projects
+🐍 Django REST Framework APIs
+🐳 Docker & Containerization
+☁️ AWS Cloud Fundamentals
+📚 Data Structures & Algorithms
+```
+
+## 💡 Developer Quote
+
+<p align="center">
+<i>"First, solve the problem. Then, write the code."</i><br>
+— John Johnson
+</p>
+
+## 🗺️ Learning Journey
+
+```text
+2022  🎓 Started B.Tech (CSE AI & ML)
+2023  🐍 Learned Python & SQL
+2024  🌐 Built Web Applications
+2025  🤖 Developed AI & ML Projects
+2026  💼 Preparing for Software Engineer Role
+```
+
+## 📈 Developer Metrics
+
+<p align="center">
+
+![](https://img.shields.io/badge/Open%20Source-Learning-1a1b27?style=for-the-badge&logo=github&logoColor=7aa2f7)
+![](https://img.shields.io/badge/Focus-Full%20Stack-1a1b27?style=for-the-badge&logo=react&logoColor=61dafb)
+![](https://img.shields.io/badge/Goal-Software%20Engineer-1a1b27?style=for-the-badge&logo=googlechrome&logoColor=7aa2f7)
+
+</p>
+
+
 <!-- ============ 15. CONTACT ============ -->
 
 ## 📬 Contact Me
