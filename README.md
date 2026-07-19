@@ -1,214 +1,334 @@
-<h1 align="center">Hi 👋, I'm Janardhan B M</h1>
+<!-- ================================================================
+     JANARDHAN B M — GITHUB PROFILE README
+     Theme: Tokyo Night
+     ================================================================ -->
 
-<h3 align="center">💫 About Me</h3>
+<!-- ============ 1. HERO BANNER ============ -->
+<div align="center">
 
-```java
-public class Janardhan {
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:414868,100:7aa2f7&height=220&section=header&text=Janardhan%20B%20M&fontSize=48&fontColor=c0caf5&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20Python%20Full%20Stack%20Developer&descAlignY=58&descSize=18&descColor=7aa2f7" width="100%"/>
 
-    String role = "AI & ML Engineer | Full Stack Developer";
-    String location = "Chennai, India";
+<!-- ============ 2. TYPING ANIMATION ============ -->
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=650&lines=Python+Full+Stack+Developer;React+Developer;Django+Backend+Developer;AI+%26+Machine+Learning+Enthusiast;Open+Source+Learner;Software+Engineer;Lifelong+Learner" alt="Typing SVG" />
+</a>
 
-    String[] skills = {
-        "Python",
-        "Machine Learning",
-        "Django",
-        "React.js",
-        "MySQL",
-        "JavaScript"
-    };
+<!-- ============ 3. SOCIAL BADGES ============ -->
+<p>
+  <a href="https://github.com/janam9097-arch"><img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=7aa2f7" /></a>
+  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=7aa2f7" /></a>
+  <a href="https://github.com/janam9097-arch/portfolio"><img src="https://img.shields.io/badge/Portfolio-1a1b27?style=for-the-badge&logo=vercel&logoColor=7aa2f7" /></a>
+  <a href="mailto:janam9097@gmail.com"><img src="https://img.shields.io/badge/Gmail-1a1b27?style=for-the-badge&logo=gmail&logoColor=7aa2f7" /></a>
+  <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-1a1b27?style=for-the-badge&logo=leetcode&logoColor=7aa2f7" /></a>
+  <a href="https://www.hackerrank.com/"><img src="https://img.shields.io/badge/HackerRank-1a1b27?style=for-the-badge&logo=hackerrank&logoColor=7aa2f7" /></a>
+</p>
 
-    String currentFocus =
-        "Building AI-powered monitoring systems and full stack web applications";
+</div>
 
-}
+<!--
+  NOTE: LinkedIn, Portfolio, LeetCode, and HackerRank URLs above are placeholders.
+  Replace them with your real profile links before publishing.
+-->
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+<!-- ============ 4. ABOUT ME ============ -->
+
+## 🧿 About Me
+
+```python
+class Janardhan:
+    def __init__(self):
+        self.name = "Janardhan B M"
+        self.role = "AI & ML Engineer | Python Full Stack Developer"
+        self.location = "Chennai, India"
+        self.education = "B.Tech CSE (AI & ML) — 2022 to 2026"
+
+        self.current_focus = [
+            "Building AI-powered monitoring systems",
+            "Sharpening Django & React full-stack skills",
+            "Practicing DSA daily"
+        ]
+
+        self.interests = [
+            "Machine Learning", "AIOps", "Full Stack Development",
+            "Open Source", "System Design"
+        ]
+
+        self.fun_fact = "I once built a self-healing app before I fully healed my own sleep schedule ☕"
+
+    def status(self):
+        return "Open to Internships & Full-Time Opportunities 🚀"
 ```
 
-💻 B.Tech (AI & ML) graduate with hands-on experience in Python, machine learning, and full-stack development using React.js, Django, and MySQL.
+- 🎓 B.Tech (Computer Science — AI & ML), Siddharth Institute of Engineering & Technology
+- 🔭 Currently building **ML-based monitoring & self-healing systems**
+- 🌱 Learning **Django REST Framework, Docker, and AWS**
+- 💬 Ask me about **Python, React, Django, or Machine Learning**
+- 📫 Reach me at **janam9097@gmail.com**
+- ⚡ Fun fact: I enjoy turning small ideas into working full-stack apps over a weekend
 
-🚀 Strong foundation in anomaly detection, model building, data analysis, and building interactive dashboards.
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-🎯 Interested in:
-- Artificial Intelligence & Machine Learning
-- Full Stack Web Development
-- AIOps & Self-Healing Systems
-- Data Analysis & Model Evaluation
-- Open Source Contributions
+<!-- ============ 5. TECH STACK ============ -->
 
----
+## 🛠️ Tech Stack
 
-### 🌐 Connect With Me
+**Languages**
+<p>
+<img src="https://img.shields.io/badge/Python-1a1b27?style=for-the-badge&logo=python&logoColor=7aa2f7"/>
+<img src="https://img.shields.io/badge/JavaScript-1a1b27?style=for-the-badge&logo=javascript&logoColor=e0af68"/>
+<img src="https://img.shields.io/badge/SQL-1a1b27?style=for-the-badge&logo=postgresql&logoColor=7aa2f7"/>
+<img src="https://img.shields.io/badge/HTML5-1a1b27?style=for-the-badge&logo=html5&logoColor=f7768e"/>
+<img src="https://img.shields.io/badge/CSS3-1a1b27?style=for-the-badge&logo=css3&logoColor=7dcfff"/>
+</p>
 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:janam9097@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://github.com/janam9097-arch/portfolio)
+**Frontend**
+<p>
+<img src="https://img.shields.io/badge/React-1a1b27?style=for-the-badge&logo=react&logoColor=7dcfff"/>
+<img src="https://img.shields.io/badge/Bootstrap-1a1b27?style=for-the-badge&logo=bootstrap&logoColor=bb9af7"/>
+<img src="https://img.shields.io/badge/TailwindCSS-1a1b27?style=for-the-badge&logo=tailwindcss&logoColor=7dcfff"/>
+</p>
 
----
-
-### 🎯 Current Focus
-
-- 🌱 Deepening my expertise in Machine Learning and Deep Learning
-- 🐍 Strengthening my Python and Data Analysis skills
-- 🧩 Practicing Data Structures & Algorithms
-- 💡 Solving coding problems consistently to improve problem-solving skills
-- 🚀 Building AI/ML and full-stack projects with clean architecture
-
----
-
-### 💻 Tech Stack
-
-**Programming Languages**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Machine Learning**
-![Anomaly Detection](https://img.shields.io/badge/-Anomaly%20Detection-4B8BBE?style=flat-square)
-![Model Building](https://img.shields.io/badge/-Model%20Building-4B8BBE?style=flat-square)
-![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-4B8BBE?style=flat-square)
-
-**Backend & Frontend**
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+**Backend**
+<p>
+<img src="https://img.shields.io/badge/Django-1a1b27?style=for-the-badge&logo=django&logoColor=9ece6a"/>
+<img src="https://img.shields.io/badge/REST%20API-1a1b27?style=for-the-badge&logo=fastapi&logoColor=7aa2f7"/>
+</p>
 
 **Database**
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Tools & Platforms**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
-**Core Concepts**
-![DSA](https://img.shields.io/badge/-Data%20Structures-4B8BBE?style=flat-square)
-![DBMS](https://img.shields.io/badge/-DBMS-4B8BBE?style=flat-square)
-![ML](https://img.shields.io/badge/-Machine%20Learning-4B8BBE?style=flat-square)
-![DL](https://img.shields.io/badge/-Deep%20Learning-4B8BBE?style=flat-square)
-
----
-
-### 💼 Experience
-
-**Machine Learning Intern | Interncertify**
-📅 Oct 2025
-- Completed a hands-on machine learning internship, applying core ML concepts to practical problem-solving tasks.
-
-**Python Intern | Assistive Technology**
-📅 Jan 2024
-- Developed Python-based solutions as part of an assistive technology internship program.
-
-**Python Full-Stack Developer Training | FITA Academy, Chennai**
-- Completed structured training in full-stack development covering Python, Django, React.js, and MySQL.
-
----
-
-### 🚀 Featured Projects
-
-#### 🤖 AIOps-Driven Self-Healing Application
-**Tech Stack:** Python • Machine Learning • Streamlit
-
-**Features**
-- ML-Based Anomaly Detection
-- Automated Remediation Workflows
-- Real-Time Interactive Dashboard
-- Log & Alert Visualization
-- Reduced Manual Monitoring Effort
-
-#### 🔐 Random Password Generator
-**Tech Stack:** HTML • CSS • JavaScript
-[View Repo](https://github.com/janam9097-arch/random-password-generator)
-
-**Features**
-- Customizable Password Length
-- Uppercase, Lowercase & Symbol Options
-- Simple, Responsive UI
-
-#### 🕒 Digital Clock
-**Tech Stack:** HTML • CSS • JavaScript
-[View Repo](https://github.com/janam9097-arch/digital-clock)
-
-**Features**
-- Real-Time Display
-- Responsive Design
-
-#### ⏱️ JavaScript Stopwatch
-**Tech Stack:** HTML • CSS • JavaScript
-[View Repo](https://github.com/janam9097-arch/javascript-stopwatch)
-
-**Features**
-- Start, Stop & Reset Functionality
-- Clean, Minimal Interface
-
-#### 🧮 Calculator App
-**Tech Stack:** HTML • CSS • JavaScript
-[View Repo](https://github.com/janam9097-arch/calculator-app)
-
-**Features**
-- Basic Arithmetic Operations
-- Modern, Responsive UI
-
----
-
-### 🎓 Education
-
-**B.Tech, Computer Science — Artificial Intelligence & Machine Learning**
-🏫 Siddharth Institute of Engineering & Technology, Puttur, Tirupati Dist., India
-📅 Oct 2022 – May 2026
-
----
-
-### 🏅 Leadership & Volunteering
-
-**Event Volunteer — Hackathons & Tech Fests** | 2023 – 2025
-- Assisted in organizing coding competitions, hackathons, and workshops.
-- Supported smooth execution and engaged with 200+ participants across multiple events.
-
----
-
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=janam9097-arch&show_icons=true&theme=default" alt="Janardhan's GitHub stats" />
+<p>
+<img src="https://img.shields.io/badge/MySQL-1a1b27?style=for-the-badge&logo=mysql&logoColor=7aa2f7"/>
+<img src="https://img.shields.io/badge/MongoDB-1a1b27?style=for-the-badge&logo=mongodb&logoColor=9ece6a"/>
+<img src="https://img.shields.io/badge/SQLite-1a1b27?style=for-the-badge&logo=sqlite&logoColor=7aa2f7"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=janam9097-arch" alt="Janardhan's streak stats" />
+**Tools**
+<p>
+<img src="https://img.shields.io/badge/Git-1a1b27?style=for-the-badge&logo=git&logoColor=f7768e"/>
+<img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=c0caf5"/>
+<img src="https://img.shields.io/badge/VS%20Code-1a1b27?style=for-the-badge&logo=visualstudiocode&logoColor=7aa2f7"/>
+<img src="https://img.shields.io/badge/Postman-1a1b27?style=for-the-badge&logo=postman&logoColor=e0af68"/>
+<img src="https://img.shields.io/badge/Linux-1a1b27?style=for-the-badge&logo=linux&logoColor=c0caf5"/>
+<img src="https://img.shields.io/badge/Figma-1a1b27?style=for-the-badge&logo=figma&logoColor=bb9af7"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=janam9097-arch&theme=react-dark" alt="Janardhan's contribution graph" />
+**AI / ML**
+<p>
+<img src="https://img.shields.io/badge/NumPy-1a1b27?style=for-the-badge&logo=numpy&logoColor=7aa2f7"/>
+<img src="https://img.shields.io/badge/Pandas-1a1b27?style=for-the-badge&logo=pandas&logoColor=bb9af7"/>
+<img src="https://img.shields.io/badge/Scikit--learn-1a1b27?style=for-the-badge&logo=scikitlearn&logoColor=f7768e"/>
+<img src="https://img.shields.io/badge/Streamlit-1a1b27?style=for-the-badge&logo=streamlit&logoColor=f7768e"/>
 </p>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-### 🌟 Open Source Goals
-- ✅ Contribute to AI/ML Open Source Projects
-- ✅ Build Production-Grade Full Stack Applications
-- ✅ Learn Cloud & MLOps Practices
-- ✅ Master System Design
-- ✅ Help Developer Communities
+<!-- ============ 6. GITHUB STATISTICS ============ -->
 
----
+## 📊 GitHub Statistics
 
-### ⚡ Fun Facts
-- ☕ Coffee + Python = Productivity
-- 🎯 Love Solving Coding Problems
-- 🚀 Passionate About Building AI-Powered Applications
-- 📚 Continuous Learner
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=janam9097-arch&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=janam9097-arch&theme=tokyonight&hide_border=true" height="165"/>
 
-### 💡 Developer Quote
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janam9097-arch&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=janam9097-arch&theme=tokyonight" height="165"/>
 
-> "Programs must be written for people to read, and only incidentally for machines to execute."
-> — Harold Abelson
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=janam9097-arch&theme=tokyo-night&hide_border=true" width="90%"/>
 
----
+</div>
 
-### 🤝 Support
+<!-- ============ 7. ACHIEVEMENTS ============ -->
 
-If you like my work, consider giving a ⭐ to my repositories and following my GitHub journey.
+## 🏆 GitHub Achievements
 
-<p align="center">⭐ Thanks for Visiting My Profile ⭐</p>
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=janam9097-arch&theme=tokyonight&no-frame=true&row=1&column=7" />
+</div>
+
+<p align="center">
+<img src="https://img.shields.io/github/stars/janam9097-arch?style=for-the-badge&color=7aa2f7&labelColor=1a1b27"/>
+<img src="https://img.shields.io/github/followers/janam9097-arch?style=for-the-badge&color=bb9af7&labelColor=1a1b27"/>
+<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=9ece6a&labelColor=1a1b27&label=Repos&query=public_repos&url=https://api.github.com/users/janam9097-arch"/>
+</p>
+
+<!-- ============ 8. CONTRIBUTION SNAKE ============ -->
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/janam9097-arch/janam9097-arch/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
+
+> Generated automatically every 24 hours via GitHub Actions — see `.github/workflows/snake.yml` in the setup files.
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+<!-- ============ 9. FEATURED PROJECTS ============ -->
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 AIOps Self-Healing App
+ML-based monitoring system that detects infra failures and auto-recovers, with a live Streamlit dashboard.
+
+**Tech:** Python · Machine Learning · Streamlit
+**Features:** Anomaly Detection · Automated Remediation · Real-Time Dashboard
+
+[🔗 Repository](https://github.com/janam9097-arch)
+
+</td>
+<td width="50%">
+
+### 🛒 E-Commerce Platform
+*(placeholder — link your repo when ready)*
+
+**Tech:** Django · React · MySQL
+**Features:** Cart & Checkout · Auth · Admin Dashboard
+
+[🔗 Repository](#) · [🌐 Live Demo](#)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📈 AI Log Analyzer
+*(placeholder — link your repo when ready)*
+
+**Tech:** Python · Pandas · Scikit-learn
+**Features:** Log Parsing · Anomaly Scoring · Visual Reports
+
+[🔗 Repository](#)
+
+</td>
+<td width="50%">
+
+### ⛅ Weather Dashboard
+*(placeholder — link your repo when ready)*
+
+**Tech:** React · REST API
+**Features:** Live Forecast · Location Search · Responsive UI
+
+[🔗 Repository](#) · [🌐 Live Demo](#)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 💬 Chat Application
+*(placeholder — link your repo when ready)*
+
+**Tech:** Django · WebSockets · React
+**Features:** Real-Time Messaging · Auth · Rooms
+
+[🔗 Repository](#)
+
+</td>
+<td width="50%">
+
+### 💼 Portfolio Website
+Personal portfolio showcasing projects and skills.
+
+**Tech:** HTML · CSS · JavaScript
+
+[🔗 Repository](https://github.com/janam9097-arch/portfolio)
+
+</td>
+</tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+<!-- ============ 10. CERTIFICATIONS ============ -->
+
+## 📜 Certifications
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-Certified-1a1b27?style=for-the-badge&logo=python&logoColor=7aa2f7"/>
+<img src="https://img.shields.io/badge/React-Certified-1a1b27?style=for-the-badge&logo=react&logoColor=7dcfff"/>
+<img src="https://img.shields.io/badge/Django-Certified-1a1b27?style=for-the-badge&logo=django&logoColor=9ece6a"/>
+<img src="https://img.shields.io/badge/SQL-Certified-1a1b27?style=for-the-badge&logo=mysql&logoColor=7aa2f7"/>
+<img src="https://img.shields.io/badge/Git-Certified-1a1b27?style=for-the-badge&logo=git&logoColor=f7768e"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-Certified-1a1b27?style=for-the-badge&logo=scikitlearn&logoColor=bb9af7"/>
+</p>
+
+<!-- ============ 11. CURRENTLY LEARNING ============ -->
+
+## 📚 Currently Learning
+
+- [ ] Advanced React
+- [ ] Django REST Framework
+- [ ] Docker
+- [ ] AWS
+- [ ] System Design
+- [x] Data Structures & Algorithms
+
+<!-- ============ 12. 2026 GOALS ============ -->
+
+## 🗺️ 2026 Roadmap
+
+```
+Q1 ──●── Build 25+ Projects
+Q2 ──●── Contribute to Open Source
+Q3 ──●── Master Django + Learn Docker
+Q4 ──●── Learn AWS + Crack Software Engineer Role
+```
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+<!-- ============ 13. CODING ACTIVITY ============ -->
+
+## ⏱️ Coding Activity
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=janam9097-arch&theme=tokyonight&hide_border=true" width="90%"/>
+</div>
+
+> Weekly/commit activity widget — connect [WakaTime](https://wakatime.com/) for this card to populate with real data.
+
+<!-- ============ 14. FUN FACTS ============ -->
+
+## ⚡ Fun Facts
+
+| | |
+|---|---|
+| 🧩 | Loves solving problems |
+| 🤖 | Enjoys building AI projects |
+| 📖 | Always learning new technologies |
+| 🏗️ | Builds real-world, end-to-end applications |
+
+<!-- ============ 15. CONTACT ============ -->
+
+## 📬 Contact Me
+
+<p align="center">
+<a href="mailto:janam9097@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-1a1b27?style=for-the-badge&logo=gmail&logoColor=f7768e"/></a>
+<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=7aa2f7"/></a>
+<a href="https://github.com/janam9097-arch/portfolio"><img src="https://img.shields.io/badge/View%20Portfolio-1a1b27?style=for-the-badge&logo=vercel&logoColor=c0caf5"/></a>
+<a href="https://github.com/janam9097-arch"><img src="https://img.shields.io/badge/Follow%20on%20GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=c0caf5"/></a>
+<a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-1a1b27?style=for-the-badge&logo=leetcode&logoColor=e0af68"/></a>
+<a href="https://www.hackerrank.com/"><img src="https://img.shields.io/badge/HackerRank-1a1b27?style=for-the-badge&logo=hackerrank&logoColor=9ece6a"/></a>
+</p>
+
+<!-- ============ 16. FOOTER ============ -->
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+<div align="center">
+
+### 🌙 Happy Coding
+
+<img src="https://komarev.com/ghpvc/?username=janam9097-arch&label=Profile%20Views&color=7aa2f7&style=for-the-badge"/>
+
+*Made with ❤️ and ☕ by Janardhan B M*
+*Last Updated: July 2026*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:414868,100:1a1b27&height=100&section=footer" width="100%"/>
+
+</div>
