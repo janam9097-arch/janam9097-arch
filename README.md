@@ -6,7 +6,7 @@
 <!-- ============ 1. HERO BANNER ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:414868,100:7aa2f7&height=220&section=header&text=Janardhan%20B%20M&fontSize=48&fontColor=c0caf5&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20Python%20Full%20Stack%20Developer&descAlignY=58&descSize=18&descColor=7aa2f7" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:414868,100:7aa2f7&height=220&section=header&text=Janardhan%20B%20M&fontSize=48&fontColor=c0caf5&animation=fadeIn&fontAlignY=38&desc=AI%20/%20ML%20Engineer%20%7C%20Python%20Full%20Stack%20Developer&descAlignY=58&descSize=18&descColor=7aa2f7" width="100%"/>
 
 <!-- ============ 2. TYPING ANIMATION ============ -->
 <a href="#">
