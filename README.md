@@ -144,7 +144,7 @@ class Janardhan:
 ## 🏆 GitHub Achievements
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=janam9097-arch&theme=tokyonight&no-frame=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=janam9097-arch&theme=tokyonight&no-frame=true&margin-w=10&row=2&column=4" />
 </div>
 
 <p align="center">
@@ -287,10 +287,11 @@ Q4 ──●── Learn AWS + Crack Software Engineer Role
 ## ⏱️ Coding Activity
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=janam9097-arch&theme=tokyonight&hide_border=true" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=janam9097-arch&theme=tokyo-night&hide_border=true&area=true" width="90%"/>
 </div>
 
-> Weekly/commit activity widget — connect [WakaTime](https://wakatime.com/) for this card to populate with real data.
+> This shows your real commit activity automatically — no extra account setup needed.
+> Want a detailed time-tracking breakdown too? Install the [WakaTime](https://wakatime.com/) plugin in your editor, connect your GitHub, then add a WakaTime badge back in — it only works once that account is linked.
 
 <!-- ============ 14. FUN FACTS ============ -->
 
